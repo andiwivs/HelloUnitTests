@@ -1,0 +1,7 @@
+D:\Repos\personal\HelloUnitTest\MruListExercise\MruListExercise\obj\Debug\MruListExercise.csprojResolveAssemblyReference.cache
+D:\Repos\personal\HelloUnitTest\MruListExercise\MruListExercise\bin\Debug\MruListExercise.dll
+D:\Repos\personal\HelloUnitTest\MruListExercise\MruListExercise\bin\Debug\MruListExercise.pdb
+D:\Repos\personal\HelloUnitTest\MruListExercise\MruListExercise\bin\Debug\nunit.framework.dll
+D:\Repos\personal\HelloUnitTest\MruListExercise\MruListExercise\bin\Debug\nunit.framework.xml
+D:\Repos\personal\HelloUnitTest\MruListExercise\MruListExercise\obj\Debug\MruListExercise.dll
+D:\Repos\personal\HelloUnitTest\MruListExercise\MruListExercise\obj\Debug\MruListExercise.pdb
